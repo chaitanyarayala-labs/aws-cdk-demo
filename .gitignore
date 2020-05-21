@@ -11,5 +11,6 @@ cdk.out
 .cache
 .build
 
-# Package lock files
+# lock files
 package-lock.json
+Pipfile.lock

@@ -1,0 +1,3 @@
+[packages]
+awscli-local = "*"
+boto3 = "*"
